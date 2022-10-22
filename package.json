@@ -33,7 +33,7 @@
   "dependencies": {},
   "devDependencies": {
     "@iarna/standard": "^2.0.2",
-    "@ltd/j-toml": "^0.5.107",
+    "@ltd/j-toml": "^1.35.2",
     "@perl/qx": "^1.0.2",
     "@sgarciac/bombadil": "^2.3.0",
     "ansi": "^0.3.1",
