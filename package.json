@@ -48,7 +48,7 @@
     "toml": "^3.0.0",
     "toml-j0.4": "^1.1.1",
     "weallbehave": "*",
-    "weallcontribute": "*"
+    "weallcontribute": "1.0.9"
   },
   "files": [
     "toml.js",
